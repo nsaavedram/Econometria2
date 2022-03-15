@@ -45,7 +45,7 @@ Y si a su vez tenemos que $z_t$ es afectado por $x_t$,
 
 Por lo tanto, no podemos estimar de forma independiente estas ecuaciones. Así que necesitamos estimar de forma conjunta las dos ecuaciones.
         
-#
+
 
 Si múltiples series son consideradas, una extensión directa de los modelos AR(p) sería:
 
