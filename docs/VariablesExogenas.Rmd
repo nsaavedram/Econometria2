@@ -367,7 +367,7 @@ Si queremos hacer el predictor dos pasos adelantes, entonces necesitamos estimar
      x_t = \phi_1 x_{t-1} + \beta_1 z_{t-2} + \varepsilon_t + \theta_1 \varepsilon_{t-1}
  \end{equation}
  
- #
+ 
  
  Y el predictor sería,
  
